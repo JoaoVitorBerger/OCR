@@ -35,3 +35,5 @@ Antes de executar o projeto, certifique-se de instalar as seguintes dependência
 
 ```bash
 pip install gradio pillow pytesseract numpy
+
+Cetifique-se de ter o tesseract instalado e inserido nas variáveis de ambiente.
